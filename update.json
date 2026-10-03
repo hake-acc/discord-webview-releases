@@ -1,6 +1,6 @@
 {
-  "versionName": "1.5.0",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.5.0/app-debug.apk",
-  "releaseNotes": "v1.5.0 Update: Automatic post-registration verification orchestration, Discord settings navigation, positive verified UI detection, bounded Cyber Temp Mail inbox polling, headless background verification, AccountSaveGate invariants, and deduplicated session-scoped terminal logging."
+  "versionName": "1.6.0",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.6.0/app-debug.apk",
+  "releaseNotes": "v1.6.0 Update: Discord Safety Protocol (OAuth2 authorization with cryptographic state nonce), Interface Stability debounce detection (eliminating false registration triggers), Authenticated Interface protection, Database v3 schema migration, and legitimate Discord logout verification."
 }
