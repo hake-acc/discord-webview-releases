@@ -1,6 +1,6 @@
 {
-  "versionName": "1.6.0",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.6.0/app-debug.apk",
-  "releaseNotes": "v1.6.0 Update: Discord Safety Protocol (OAuth2 authorization with cryptographic state nonce), Interface Stability debounce detection (eliminating false registration triggers), Authenticated Interface protection, Database v3 schema migration, and legitimate Discord logout verification."
+  "versionName": "1.6.1",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.6.1/app-debug.apk",
+  "releaseNotes": "v1.6.1 Update: Dedicated one-way Discord OAuth authorization via System Browser and Custom Tabs with VaultCord support, complete separation from registration WebView, clean browser-return signals, and post-authorization legitimate Discord logout."
 }
