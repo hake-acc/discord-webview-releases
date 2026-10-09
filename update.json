@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8.0",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.8.0/app-debug.apk",
-  "releaseNotes": "v1.8.0 Update: Unified VaultCord OAuth2 authorization pipeline chained with Cyber Mail verification, cryptographic per-transaction anti-CSRF state nonces, strict dual-verification AccountSaveGate (EMAIL_VERIFIED + VAULTCORD_AUTHORIZED required for ACCOUNT_READY), and 3-step Account Setup progress card UI."
+  "versionName": "1.9.0",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.9.0/app-debug.apk",
+  "releaseNotes": "v1.9.0 Update: Discord Token Manager with Android Keystore AES-256-GCM encryption, live validity testing via Discord REST API, Snowflake ID Decoder, Discord Webhook Tester, and Utilities hub."
 }
