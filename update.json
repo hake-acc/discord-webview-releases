@@ -1,6 +1,6 @@
 {
-  "versionName": "2.1.0",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v2.1.0/app-debug.apk",
-  "releaseNotes": "v2.1.0: Minimal Vision Solver Hosting Utility. Integrated into Utilities with two primary options: Start Hosting (8-step lifecycle, hardware compatibility, memory guard, genuine status, API credential display) and Vision API (compact endpoint panel, key management, capabilities, limits, interactive image submit test)."
+  "versionName": "2.1.1",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v2.1.1/app-debug.apk",
+  "releaseNotes": "v2.1.1: Complete app-wide integration of the Minimal Vision Solver Hosting Utility. Vision REST API auto-initializes on startup with clean teardown on app exit; live Vision AI Worker & REST API statuses integrated into Home dashboard, Info diagnostics, Developer Diagnostics export, and WebFragment verification handling."
 }
