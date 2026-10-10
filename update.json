@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.0",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v2.2.0/app-debug.apk",
-  "releaseNotes": "v2.2.0: Implement Account Auth Verifier inside Utils Hub. Process multiple legitimate Discord OAuth authorization transactions, verify status through APIs, support Verify Authorization and Verify + Link (VaultGuard/VaultCord account-linking), live terminal streaming, strictly typed state dimensions, bounded async concurrency, zero token leakage, and comprehensive test suite."
+  "versionName": "2.3.0",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v2.3.0/app-debug.apk",
+  "releaseNotes": "v2.3.0: Add direct Discord token authorization and email verification support in Account Auth Verifier and Email Verification Manager. Query authoritative Discord API (users/@me) to verify identity, scopes, and email state directly, optionally link with VaultCord, support 1-click import of encrypted saved tokens, mask tokens across all UI and reports, and pass full test suite."
 }
