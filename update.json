@@ -1,6 +1,6 @@
 {
-  "versionName": "1.9.0",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v1.9.0/app-debug.apk",
-  "releaseNotes": "v1.9.0 Update: Discord Token Manager with Android Keystore AES-256-GCM encryption, live validity testing via Discord REST API, Snowflake ID Decoder, Discord Webhook Tester, and Utilities hub."
+  "versionName": "2.0.0",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/hake-acc/discord-webview-releases/releases/download/v2.0.0/app-debug.apk",
+  "releaseNotes": "v2.0.0 Major Update: Production-grade CAPTCHA Utility and Local AI Worker Hosting. Self-host CAPTCHA generation and verification systems, vector SVG challenges, salted SHA-256 zero-plaintext security, single-use token issuance, memory-guarded (<4GB RAM safe) opt-in local AI inference worker, API key manager with rate limiting, embedded REST server, and interactive demo widget."
 }
